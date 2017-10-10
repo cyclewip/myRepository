@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 
 
 
 hej hej / Martin
+=======
+hej hej / Martin ny ändring test 2
+>>>>>>> 30089fead9f05eb15fdda3cd5ef30fc6187718fe
 =======
 HEJ HEJ /ROBINZZZZZZ
 
